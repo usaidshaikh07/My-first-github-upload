@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main()
-{
-printf("HElllO WORLD!!");
-return 0;
-}
+#This is my first github code
