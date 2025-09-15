@@ -1,2 +1,6 @@
-# My-first-github-upload
-This is the first hello world code 
+#include<stdio.h>
+int main()
+{
+printf("HElllO WORLD!!");
+return 0;
+}
